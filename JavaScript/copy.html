@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Object copy</title>
+    <script>
+        var employees = [
+
+            {
+                'name': 'BCD',
+                'age': '24',
+                'salary': '10000',
+                'dob':'1-1-1995'
+            },
+            {
+                'name': 'Abc',
+                'age': '26',
+                'salary': '50000',
+                'dob':'1-1-1993'
+            },
+        ];
+        var copy={};
+        for (var i in employees) {
+            copy[i] = employees[i];
+
+        }
+        console.log(copy);
+
+    </script>
+
+</head>
+<body>
+
+</body>
+</html>

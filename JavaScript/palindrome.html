@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Palindrome</title>
+    <script>
+        function palind() {
+            var str=document.getElementById("s").value;
+            var result=document.getElementById("r");
+
+                var reversed=str.split("").reverse().join("")
+                    if(reversed==str){
+                    result.innerHTML="string is palindrome";
+                    }
+                     else{
+                         result.innerHTML="string is not a palindrome";
+                    }
+        }
+    </script>
+</head>
+<body>
+Enter String:<input id="s"><br>
+<button onclick="palind()">Check</button>
+<p id="r"></p>
+<p id="r1"></p>
+</body>
+</html>

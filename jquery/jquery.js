@@ -28,7 +28,8 @@ $(document).ready(function(){
 
 //Q6
 
-    $(".replaceHtml").replaceWith("<p>"+$(".replaceHtml").html()+"</p>");
+    $(".b6").click(function(){
+        $(".replaceHtml").html($(".replacewith").html())});
 
 //Q7
     $("#parent").click(function(){
@@ -41,7 +42,7 @@ $(document).ready(function(){
 
     $(".newClick").on('click',function(){
         $("#parent").append("<br><click class='newClick'>This is new Click element.. !!</click>");
-        //$(".newClick").hide();
+       // $(".newClick").hide();
     });
 
 //Q9
@@ -111,7 +112,7 @@ $(document).ready(function(){
 
 //Q15
     $(".button1").click(function(){
-    $.ajax({url: "new.json",
+    $.ajax({url: "jqq.json",
         dataType : 'json',
         type : "GET",
         success: function(result){
@@ -120,19 +121,26 @@ $(document).ready(function(){
         }});
 });
 
+    // $(".button1").click(function(){
+    //     $.ajax({url: "jqq.json",
+    //         dataType : 'json',
+    //         type : "GET",
+    //         success: function(result){
+    //             $(".grab").html("Fetched JSON :"+result+"<br>Name:"+result.name);
+    //             console.log(result);
+    //         }});
+    // });
+
 //Q16
 
     $(".button2").click(function(){
-        $.ajax({url: "new.json",
+        $.ajax({url: "jqq.json",
             dataType : "json",
             type : "DELETE",
             success: function(result){
                 $('.removeMe').remove();
-            },
-            error: function(request,msg,error) {
-                console.log("Request Failed");
-                $('.removeMe').remove();
             }
+
         });
     });
 

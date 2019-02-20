@@ -29,7 +29,7 @@ $(document).ready(function(){
 //Q6
 
     $(".b6").click(function(){
-        $(".replaceHtml").html($(".replacewith").html())});
+        $(".replaceHtml").replaceWith($(".replacewith").html())});
 
 //Q7
     $("#parent").click(function(){
@@ -39,11 +39,10 @@ $(document).ready(function(){
     });
 
 //Q8
-
-    $(".newClick").on('click',function(){
-        $("#parent").append("<br><click class='newClick'>This is new Click element.. !!</click>");
-       // $(".newClick").hide();
-    });
+//
+//     $(".newClick").on('click',function(){
+//         $("#parent").append("<br><click class='newClick'>This is new Click element.. !!</click>");
+//     });
 
 //Q9
 
@@ -120,16 +119,6 @@ $(document).ready(function(){
             console.log(result);
         }});
 });
-
-    // $(".button1").click(function(){
-    //     $.ajax({url: "jqq.json",
-    //         dataType : 'json',
-    //         type : "GET",
-    //         success: function(result){
-    //             $(".grab").html("Fetched JSON :"+result+"<br>Name:"+result.name);
-    //             console.log(result);
-    //         }});
-    // });
 
 //Q16
 

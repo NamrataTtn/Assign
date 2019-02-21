@@ -1,8 +1,8 @@
 public class Question_7 {
 
 
-    static String fname = "Adish";
-    static String lname = "Jain";
+    static String fname = "Namrata";
+    static String lname = "Singh";
     static int age = 23;
     static {
         System.out.println("In Static Block !!");

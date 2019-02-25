@@ -1,26 +1,39 @@
 
 import java.util.*;
+import java.sql.Array;
+import java.util.*;
 
-public class Question6 {
+        public class Question6{
+            public static void main(String[] args) {
+                Scanner sc = new Scanner(System.in);
+                System.out.println("Enter the input");
+                int arr[]=new int[10];
+//              int arr[]={10,20,10,30,10,20,40,40,60,70};
+                for(int i =0;i<arr.length;i++) {
+                    arr[i]=sc.nextInt();
+                }
+
+                HashMap<Integer,Integer> numberFrequencyMap = new HashMap<Integer, Integer>();
 
 
-//    public static void main(String[] args) {
-//        int nums[] = {0, 0, 0, 1, 3, 3, 2, 1, 3, 5, 6, 0};
-//        HashMap<Integer, Integer> counts = new HashMap<Integer, Integer>();
-//
-//        for (int i = 0; i < nums.length; i++) {
-//            if (counts.containsKey(nums[i])) {
-//                Integer c = counts.get(nums[i]) + 1;
-//
-//                counts.put(nums[i], c);
-//            } else {
-//                counts.put(nums[i], 1);
-//            }
-//        }
-//            TreeMap<Integer,Integer> treeMap= new TreeMap<>(counts);
-//            Collections.sort(treeMap, (Comparator<TreeMap<Integer, Integer>>) (o1, o2) -> 0);
-//
-//    }
-//}
-//
-}
+
+                for (int c : arr) {
+                    if (numberFrequencyMap.containsKey(c)) {
+                        numberFrequencyMap.put(c, numberFrequencyMap.get(c) + 1);
+                    } else {
+                        numberFrequencyMap.put(c, 1);
+                    }
+                }
+
+
+                ArrayList<Map.Entry<Integer, Integer>> entries = new ArrayList<>(numberFrequencyMap.entrySet());
+                Collections.sort(entries, new Comparator<Map.Entry<Integer, Integer>>() {
+                    @Override
+                    public int compare(Map.Entry<Integer, Integer> t0, Map.Entry<Integer, Integer> t1) {
+                        return t1.getValue()-t0.getValue();
+                    }
+                });
+                System.out.println(entries);
+
+            }
+        }

@@ -18,9 +18,9 @@ public class Question_6 {
             if (integerFuture.isDone()) {
                 System.out.println(integerFuture.get());
             }
-//            else if(integerFuture.isCancelled()){
-//                System.out.println("Your task has been cancelled");
-//            }
+            else if(integerFuture.isCancelled()){
+                System.out.println("Your task has been cancelled");
+            }
 
         }
     }

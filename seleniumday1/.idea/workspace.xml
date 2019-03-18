@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5409bce0-ed1f-4560-a949-1989f442a545" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2/TestNg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2/driver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2/regis.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2/src/test/java/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_2/src/test/java/Q2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.~lock.Introduction_to_HtmlCss.doc#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2/src/test/java/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_2/src/test/java/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_2/target/test-classes/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../_2/target/test-classes/Q4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../collection/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../collection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../collection/out/production/collection/Question6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/out/production/collection/Question6.class" afterDir="false" />
@@ -35,6 +32,9 @@
       <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumDay2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumDay2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumDay2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumDay2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seleniumday1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seleniumday1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seleniumday1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/seleniumday1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seleniumday1/out/production/script/Q11_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/seleniumday1/out/production/script/Q11_12.class" afterDir="false" />
@@ -54,20 +54,23 @@
     <session id="1554575366">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seleniumday1/script/src/Q4_5_6.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,6 +94,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/seleniumday1/script/src/Q11_12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seleniumday1/script/src/Q1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -112,7 +127,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="87" />
     <option name="y" value="70" />
     <option name="width" value="1279" />
@@ -124,8 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,12 +168,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seleniumDay2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -187,26 +202,27 @@
       <option name="presentableId" value="Default" />
       <updated>1552471818364</updated>
       <workItem from="1552471819704" duration="32000" />
+      <workItem from="1552471916852" duration="969000" />
+      <workItem from="1552490406301" duration="588000" />
+      <workItem from="1552539266214" duration="601000" />
+      <workItem from="1552629360247" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32000" />
+    <option name="totallyTimeSpent" value="2496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -214,15 +230,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +273,16 @@
     <entry file="file://$PROJECT_DIR$/seleniumday1/script/src/Q1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seleniumday1/script/src/Q11_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

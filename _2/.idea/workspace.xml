@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1e48ebe-2971-4958-bb88-85a0f48bbd27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/driver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regis.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumday1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumday1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumday1/.idea/seleniumday1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumday1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../seleniumday1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.~lock.Introduction_to_HtmlCss.doc#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Q4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Q4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../collection/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../collection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../collection/out/production/collection/Question6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/out/production/collection/Question6.class" afterDir="false" />
@@ -44,6 +34,7 @@
       <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../seleniumDay2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumDay2/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../seleniumDay2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumDay2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seleniumday1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../seleniumday1/seleniumday1/out/production/script/Q11_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../seleniumday1/seleniumday1/out/production/script/Q11_12.class" afterDir="false" />
@@ -65,21 +56,25 @@
     <session id="-1477015298">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="660" />
+          <entry key="JAVA" value="715" />
           <entry key="Properties" value="99" />
-          <entry key="XML" value="8" />
+          <entry key="XML" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="4" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -87,21 +82,21 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="165">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestNg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state>
+              <caret selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -109,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Q1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="349">
+              <caret line="27" column="9" selection-start-line="22" selection-start-column="7" selection-end-line="27" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Q2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
+            <state relative-caret-position="450">
               <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/regis.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="5" selection-end-column="10" />
+              <caret line="5" column="10" selection-start-line="4" selection-start-column="13" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -151,28 +146,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Q4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-                <element signature="e#872#873#0" expanded="true" />
-                <element signature="e#927#928#0" expanded="true" />
-                <element signature="e#978#979#0" expanded="true" />
-                <element signature="e#1026#1027#0" expanded="true" />
-                <element signature="e#1076#1077#0" expanded="true" />
-                <element signature="e#1127#1128#0" expanded="true" />
-                <element signature="e#1176#1177#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="630">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
@@ -198,11 +173,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/TestNg.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Q1.java" />
         <option value="$PROJECT_DIR$/regis.properties" />
         <option value="$PROJECT_DIR$/src/test/java/Q2.java" />
         <option value="$PROJECT_DIR$/src/test/java/Q3.java" />
+        <option value="$PROJECT_DIR$/TestNg.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Q4.java" />
       </list>
     </option>
@@ -232,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -264,16 +238,34 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_2" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_2" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_2" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552490436348" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552556218242" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../seleniumday1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -344,11 +336,29 @@
       <option name="presentableId" value="Default" />
       <updated>1552467342480</updated>
       <workItem from="1552467345549" duration="8946000" />
+      <workItem from="1552490398720" duration="784000" />
+      <workItem from="1552539260326" duration="2907000" />
+      <workItem from="1552629353646" duration="725000" />
+      <workItem from="1552631933331" duration="670000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_home_ttn_assignment__2_TestNg_xml - 2019.03.13 at 20h 50m 44s.xml">
+      <configuration name="/home/ttn/assignment/_2/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_ttn_assignment__2_TestNg_xml - 2019.03.14 at 12h 31m 01s.xml">
+      <configuration name="/home/ttn/assignment/_2/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_ttn_assignment__2_TestNg_xml - 2019.03.14 at 12h 32m 41s.xml">
+      <configuration name="/home/ttn/assignment/_2/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_ttn_assignment__2_TestNg_xml - 2019.03.14 at 12h 34m 26s.xml">
+      <configuration name="/home/ttn/assignment/_2/TestNg.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8946000" />
+    <option name="totallyTimeSpent" value="14032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -359,7 +369,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24980047" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26656026" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -421,40 +431,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/driver/chromedriver">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Q1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Q2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/regis.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -467,35 +447,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Q4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        <state relative-caret-position="630">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver/chromedriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver/geckodriver">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestNg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Q1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="27" column="9" selection-start-line="22" selection-start-column="7" selection-end-line="27" selection-end-column="9" />
           <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#872#873#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#978#979#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestNg.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Q2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="450">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="4" selection-start-column="13" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>

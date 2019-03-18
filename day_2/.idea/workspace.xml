@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="038f868c-6716-4ef4-810f-a01955a3bc91" name="Default Changelist" comment="" />
+    <list default="true" id="038f868c-6716-4ef4-810f-a01955a3bc91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.~lock.Introduction_to_HtmlCss.doc#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/out/production/collection/Question6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/out/production/collection/Question6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/out/production/collection/SortBySalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/out/production/collection/SortBySalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/out/production/collection/SpecialStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/out/production/collection/SpecialStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collection/src/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collection/src/Question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day_2/Question_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day_2/Question_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Question_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Question_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/out/production/exercise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/out/production/exercise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/out/production/exercise/Question_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/out/production/exercise/Question_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/out/production/exercise/StringClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/out/production/exercise/StringClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercise/src/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercise/src/StringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/out/production/multiThreading/Question_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multiThreading/src/Question_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../multiThreading/src/Question_7.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +58,21 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1177446057">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -45,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Question_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
+            <state relative-caret-position="150">
               <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
@@ -63,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Metal_Furniture.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="645">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -72,17 +115,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Question_7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="240">
               <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Question_8.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -109,21 +152,24 @@
         <entry file="file://$PROJECT_DIR$/src/Question_11.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Question_13.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="300">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -133,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/Question_7.java" />
         <option value="$PROJECT_DIR$/src/Question_3.java" />
         <option value="$PROJECT_DIR$/src/Question_8.java" />
+        <option value="$PROJECT_DIR$/src/Question_13.java" />
       </list>
     </option>
   </component>
@@ -142,18 +189,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="77" />
     <option name="y" value="47" />
     <option name="width" value="1161" />
     <option name="height" value="716" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,12 +230,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550835949001" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551763264981" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -203,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Question_8">
+  <component name="RunManager" selected="Application.Question_13">
     <configuration name="Question_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Question_11" />
       <module name="day_2" />
@@ -248,8 +296,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_8" />
         <item itemvalue="Application.Question_13" />
+        <item itemvalue="Application.Question_8" />
         <item itemvalue="Application.Question_3" />
         <item itemvalue="Application.Question_11" />
         <item itemvalue="Application.Question_7" />
@@ -268,27 +316,28 @@
       <updated>1550813586445</updated>
       <workItem from="1550813593187" duration="156000" />
       <workItem from="1550813801941" duration="2795000" />
+      <workItem from="1551760441759" duration="2167000" />
+      <workItem from="1552283929993" duration="190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2951000" />
+    <option name="totallyTimeSpent" value="5308000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="47" width="1161" height="716" extended-state="1" />
+    <frame x="77" y="47" width="1161" height="716" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25381166" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26278028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32993197" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32935154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -297,6 +346,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -327,16 +377,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java_Day2/Question_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java_Day2/Question_2.java" />
     <entry file="file://$PROJECT_DIR$/src/Question_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -430,7 +471,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Question_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
+        <state relative-caret-position="150">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
@@ -444,29 +485,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Metal_Furniture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="645">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Question_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="240">
           <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -484,10 +518,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Question_8.java">
+    <entry file="file://$PROJECT_DIR$/src/Question_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Question_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

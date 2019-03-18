@@ -94,9 +94,10 @@ public class StringClass {
         int flag = 0;
         System.out.println("Common elements are");
         for (int i : array1) {
-            for (int j : array2) {
-                if (i == j) {
+            for (int j=0;j< array2.length;j++) {
+                if (i == array2[j]) {
                     flag = 1;
+                    array2[j]=0;
                     break;
                 } else {
                     flag = 0;

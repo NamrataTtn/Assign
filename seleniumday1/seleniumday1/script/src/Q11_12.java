@@ -9,7 +9,7 @@ public class Q11_12 {
 
 
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", "/home/ttn/IdeaProjects/seleniumday1/driver/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/home/ttn/assignment/seleniumday1/seleniumday1/driver/chromedriver");
         WebDriver dr = new ChromeDriver();
         dr.get("file:///home/ttn/Downloads/Registration.html");
         List<WebElement> wb = dr.findElements(By.name("Demo"));
@@ -28,5 +28,6 @@ public class Q11_12 {
         System.out.println(dr.findElements(By.name("radiooptions")).get(0).isSelected());
         System.out.println(dr.findElement(By.xpath("//h1[contains(text(),'Automation Demo Site')]")).isDisplayed());
         System.out.println(dr.getTitle());
+        dr.close();
     }
 }

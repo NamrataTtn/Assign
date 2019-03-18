@@ -26,7 +26,7 @@ public class Question_7 {
         });
         executorService.shutdown();
 
-        executorService.awaitTermination(2000L,TimeUnit.MILLISECONDS);
+        executorService.awaitTermination(5000L,TimeUnit.MILLISECONDS);
 
         if(executorService.isTerminated()){
             System.out.println("Terminated");

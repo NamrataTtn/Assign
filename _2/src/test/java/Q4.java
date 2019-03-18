@@ -8,34 +8,7 @@ public class Q4 {
     public void test(){
         System.out.println("Test");
     }
-    @BeforeClass
-    public void beforeClass()
-    {
-        System.out.println("Before class");
 
-    }
-    @BeforeGroups
-    public void beforeGroup(){
-        System.out.println("before Group");
-    }
-    @BeforeMethod
-    public void beforeMethod()
-    {
-        System.out.println("before Method");
-    }
-    @BeforeSuite
-    public void beforeSuite(){
-        System.out.println("before suite");
-    }
-    @BeforeTest
-    public void beforeTest()
-    {
-        System.out.println("before test");
-    }
-    @BeforeGroups
-    public void beforeGroups(){
-        System.out.println("before group");
-    }
       @AfterGroups
       public void afterGroups(){
           System.out.println("after group");
@@ -65,6 +38,34 @@ public class Q4 {
     {
         System.out.println("after test");
     }
+
+
+    @BeforeClass
+    public void beforeClass()
+    {
+        System.out.println("Before class");
+
+    }
+    @BeforeGroups
+    public void beforeGroup(){
+        System.out.println("before Group");
+    }
+    @BeforeMethod
+    public void beforeMethod()
+    {
+        System.out.println("before Method");
+    }
+    @BeforeSuite
+    public void beforeSuite(){
+        System.out.println("before suite");
+    }
+    @BeforeTest
+    public void beforeTest()
+    {
+        System.out.println("before test");
+    }
+
+
 }
 
 /*

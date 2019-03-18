@@ -37,8 +37,8 @@ public class Main {
 
         System.out.println("Output of Q5");
         System.out.println("");
-        int[] arr1 = new int[]{ 1,4,5,6,7,8,9,10 };
-        int[] arr2 = new int[]{ 43,31,1,2,3,4 };
+        int[] arr1 = new int[]{ 1,4,1,1,1,5,6,7,8,9,10 };
+        int[] arr2 = new int[]{ 4,4,43,31,1,2,1,2,2,1,3};
         str.findCommonElement(arr1,arr2);
         System.out.println("");
         System.out.println("");

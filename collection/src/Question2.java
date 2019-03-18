@@ -3,7 +3,7 @@ import java.util.*;
 public class Question2 {
 
     public void countUniqueCharacter(String str) {
-        char[]char_array =str.toCharArray();
+        char[] char_array =str.toCharArray();
         HashMap<Character, Integer> map = new HashMap<>();
         int flag = 0;
         for (char c:char_array) {
